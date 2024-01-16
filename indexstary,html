@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+	<html lang="pl-PL">
+	<html>
+		<head>
+ 			<meta charset="utf-8">
+ 			<title> </title>
+		</head>
+		<body>
+	<A NAME="Początek_pliku"></A>
+	
+	<A HREF="poczta.html"> Tutaj jest link do poczty </A><br>
+	<A HREF="plik.html"> Tutaj jest link do pliku </A><br>
+			
+	<A HREF="#Środek_pliku"> Kliknij tutaj aby skoczyć na środek pliku </A><br>
+	<A HREF="#Koniec_pliku"> Kliknij tutaj aby skoczyć na koniec pliku </A><br>
+			
+	<A HREF="tabela.html"> Tutaj jest link do tabeli </A><br>
+	<A HREF="formularz.html"> Tutaj jest link do formularz </A><br>
+
+			
+<p align="right"> <font color="green" size="7" face="Arial"> Artur </font> </p> <br>
+<p align="right"> <font color="green" size="6" face="Arial"> Artur </font> </p> <br>
+<p align="right"> <font color="green" size="5" face="Arial"> Artur </font> </p> <br>
+<p align="right"> <font color="green" size="4" face="Arial"> Artur </font> </p> <br>
+<p align="right"> <font color="green" size="3" face="Arial"> Artur </font> </p> <br>
+<p align="right"> <font color="green" size="2" face="Arial"> Artur </font> </p> <br>
+<p align="right"> <font color="green" size="1" face="Arial"> Artur </font> </p> <br>
+
+<h6> Grabarczyk </h6><br>
+<h5> Grabarczyk </h5><br>
+<h4> Grabarczyk </h4><br>
+<h3> Grabarczyk </h3><br>
+<h2> Grabarczyk </h2><br>
+<h1> Grabarczyk </h1><br>
+
+<p align="right"> <font color="blue" size="3" face="Times New Roman"> :) radość </font> </p> <br>
+<p align="right"> <font color="red" size="1" face="Times New Roman"> :D wielka radość </font> </p> <br>
+<p align="right"> <font color="yellow" size="4" face="Courier New"> :C duży smutek </font> </p> <br>
+<p align="right"> <font color="black" size="2" face="Courier New"> :( smutek </font> </p> <br>
+<p align="right"> <font color="green" size="6" face="Verdana"> ;( płacz </font> </p> <br>
+<p align="right"> <font color="purple" size="5" face="Verdana"> :O zdziwienie  </font> </p> <br>
+
+			
+<br>
+
+			
+<p align="right"> <font color="orange" size="5" face="Arial"> <b>80-167</b> <u>Gdynia</u> <i>Przywidzka</i> <strike>35/3</strike> </font> </p> <br>
+<center> <p> <font color="red" size="8" face="Arial"> Ulubiony aktor: Samuel L. Jackson </font> </p> <br>
+<center> <p> <font color="purple" size="2" face="Verdana"> Ulubiony zespół muzyczny : Slipknot </font> </p> <br>
+<center> <p> <font color="yellow" size="7" face="Courier New"> Data urodzenia :17 Pażdziernika 2003 </font> </p> <br>
+<p align="left"> <font color="green" size="3" face="Arial"> H <sub> 2 </sub> SO <sub> 4 </sub></font> </p> <br>
+<br>
+<p align="left"> <font color="black" size="3" face="Arial"> x <sup> * </sup> x=x <sup> 2 </sup> </font> </p> <br>
+
+
+	</FIELDSET>
+<A NAME="Środek_pliku"></A>
+
+	<A HREF="poczta.html"> Tutaj jest link do poczty </A><br>
+	<A HREF="plik.html"> Tutaj jest link do pliku </A><br>
+			
+	<A HREF="#Początek_pliku"> Kliknij tutaj aby skoczyć na początek pliku </A><br>
+	<A HREF="#Koniec_pliku"> Kliknij tutaj aby skoczyć na koniec pliku </A><br>
+			
+	<A HREF="tabela.html"> Tutaj jest link do tabeli </A><br>
+	<A HREF="formularz.html"> Tutaj jest link do formularz </A><br>
+	
+	
+
+	</FIELDSET><br>
+Nazwisko ucznia&nbsp;Imię ucznia<br>
+Grabarczyk&nbsp;Artur<br>
+<!-Artur Grabarczyk  ZSE 2F-!>
+<br><br><br>
+<h1>Poniżej są trzy wyliczenia z różnymi znakami wyliczenia</h1>
+<h1>Ty zaproponuj swoje, związane z informatyką</h1>
+
+<p align="left"> <font color="red" size="3" face="Verdana"> peryfera komputerowe </font> </p>
+<UL TYPE=square>
+<LI align="left">Monitor
+<LI align="left">drukarka
+<LI align="left">Kamera interntowa
+</UL>
+
+<UL TYPE=circle>
+<LI align="left">klawiatura
+<LI align="left">myszka
+<LI align="left">projektor
+</UL>
+
+<UL TYPE=disc>
+<LI align="left">mikrofon 
+<LI align="left">klucze zabezpieczające UF2
+<LI align="left">karta dzwiękowa zewnętrzna
+</UL>
+<br><br><br>
+<h2>poniżej są trzy numerowania z różnymi znakami numerowania</h2>
+<h2>Ty zaproponuj swoje, związane z informatyką</h2>	
+	
+<p align="left"> <font color="purple" size="6" face="Arial"> dystrybutorzy kart graficznych </font> 	
+	
+<OL TYPE=A START=3>
+<LI align="left"> Asus
+<LI align="left"> MSI
+<LI align="left"> Zotac
+<LI align="left"> ASRock 
+</OL>
+<p align="left"> <font color="red" size="9" face="Verdana"> Rodzaje języków programowania </font>
+<OL TYPE=I START=2>
+<LI align="left"> C++
+<LI align="left"> SQL
+<LI align="left"> C#
+<LI align="left"> Java
+</OL>
+<p align="left"> <font color="green" size="8" face="Arial"> komendy w wierszu poleceń (CMD) </font>
+<OL TYPE=Y START=H>
+<LI align="left">cls
+<LI align="left">cd
+<LI align="left">shutdown
+</OL>
+<br><br><br>
+<h3>poniżej będą trzy poziomy numerowania/wyliczenia z różnymi rodzajami numerowania/wyliczenia</h3>
+<h3>Ty zaproponuj swoje, związane z informatyką</h3>
+
+<OL> 
+<LI align="left"> znaki specjalne
+	<OL type=A> 
+<LI align="left"> shift + 1 daje nam !
+<LI align="left"> shift + 2 daje nam @
+<LI align="left"> shift + 5 daje nam %
+	</OL>
+<LI align="left"> rodzaje pamięci 
+	<OL type=A> 
+<LI align="left"> RAM
+<LI align="left"> ROM
+<LI align="left"> Operacyjna
+<LI align="left"> Masowa
+<LI align="left"> Wewnętrzna
+	</OL>
+	
+</OL>
+
+<h2 ALIGN=right >Dowcip o informatyku </h2>
+	<FIELDSET>
+		<LEGEND>Dowcip o informatyku</LEGEND> 
+
+	
+<IMG SRC="ip.png" ALIGN=right BORDER=28 WIDTH=118 HEIGHT=118 ALT=„grafika1-Grabarczyk”>
+<p align="right">Wsiada informatyk do taksówki. Taksiarz pyta:<br>
+- Dokąd jedziemy?<br>
+-192.168.4.1<br><p>
+		
+<br><br><br><br><br><br>
+		
+<IMG SRC="rozdzielczość.png" ALIGN=left BORDER=17 WIDTH=107 HEIGHT=107 ALT=„grafika2-Grabarczyk”>
+<p align="left">Jakie są idealne wymiary kobiety informatyka?<br>
+1024 x 768.<br>
+
+<br><br><br><br><br><br>
+
+<IMG SRC="komp.jpg" ALIGN=right BORDER=17 WIDTH=107 HEIGHT=107 ALT=„grafika3-Grabarczyk”>
+<p align="right">Przychodzi koleś do kafejki internetowej i pyta:<br>
+-są jakieś wolne komputery?<br>
+-Nie, mamy same szybkie.<br>
+
+<br><br><br><br><br><br>
+
+<IMG SRC="firewall.png" ALIGN=left BORDER=27 WIDTH=110 HEIGHT=107 ALT=„grafika4-Grabarczyk”>
+<p align="left">Ludzie! Oderwijcie się od tego komputera,<br>
+tam też jest świat, ptaszki ćwierkające, piwo, dziewczyny...<br>
+Gdzie? Za firewall`em?<br>
+
+	
+<br><br><br><br><br><br>
+
+<IMG SRC="drukara.jpg" ALIGN=right BORDER=15 WIDTH=105 HEIGHT=105 ALT=„grafika5-Grabarczyk”>
+<p align="right">Co to jest? Zaczyna się na D, kończy na A i zużywa dużo papieru?<br>
+<p align="right">- Drukarka.<br>	
+	
+	<br><br><br><br><br><br>
+	
+<A NAME="Koniec_pliku"></A>
+	<p align="center" ><A HREF="poczta.html"> Tutaj jest link do poczty </A><br>
+	
+	<p align="center" ><A align="center" HREF="plik.html"> Tutaj jest link do pliku </A><br>
+			
+	<p align="center" ><A align="center"  HREF="#Początek_pliku"> Kliknij tutaj aby skoczyć na początek pliku </A><br>
+	
+	<p align="center" ><A align="center"   HREF="#Środek_pliku"> Kliknij tutaj aby skoczyć na środek pliku </A><br>	
+	
+	<p align="center" ><A align="center"  HREF="tabela.html"> Tutaj jest link do tabeli </A><br>
+	
+	<p align="center" ><A align="center"  HREF="formularz.html"> Tutaj jest link do formularz </A><br>
+
+
+
+
+</p>		
+</body>
+	</html>
